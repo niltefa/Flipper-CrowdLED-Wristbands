@@ -1,4 +1,4 @@
-# Flipper CrowdLED Bracelets Controller
+# Flipper CrowdLED Wristbands Controller
 This repository contains files for controlling CrewdLED bracelets using sub-GHz (433.92MHz) frequency, designed for use with the Flipper Zero. These files are intended for experimentation and educational purposes. Each file corresponds to a specific action, such as setting the color to red, creating gradient effects, or displaying multicolor patterns. They are capable of synchronizing concert wristbands to produce a coordinated light show.
 
 > [!NOTE]
