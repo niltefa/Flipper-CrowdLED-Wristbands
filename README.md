@@ -1,2 +1,2 @@
-# Flipper---CrowLED-Bracelets
+# Flipper CrowLED Bracelets Controller
 This repository contains .sub files, for the flipper zero to control the CrewdLED bracelets. Each file performs a different action, for example: to set the red color, to set gradient effects, multicolor...
