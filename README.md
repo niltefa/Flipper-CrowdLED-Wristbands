@@ -22,7 +22,7 @@ Versions of the files are provided in both English and Spanish within the reposi
 2. Open the qFlipper app.
 3. Navigate to the `SD Card > subghz` directory.
 4. Add the desired files to the `subghz` folder.
-5. Access the saved files in Flipper to utilize them.
+5. Access the `Saved` section within the `Sub-GHz` application on Flipper to utilize them.
 
 
 
