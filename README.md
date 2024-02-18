@@ -17,8 +17,6 @@ Versions of the files are provided in both English and Spanish within the reposi
 - **CrewdLED Bracelets**: CrewdLED bracelets are needed to synchronize and control the lights.
 - **Basic Knowledge**: Basic knowledge of using the Flipper Zero and loading files onto the SD card is recommended.
 
-This section will help users understand what they need before they can start using the files and the application.
-
 ## Usage
 1- Download the desired files.
 2- Open the qFlipper app.
