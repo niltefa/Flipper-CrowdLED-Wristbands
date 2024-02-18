@@ -18,11 +18,13 @@ Versions of the files are provided in both English and Spanish within the reposi
 - **Basic Knowledge**: Basic knowledge of using the Flipper Zero and loading files onto the SD card is recommended.
 
 ## Usage
-1- Download the desired files.
-2- Open the qFlipper app.
-3- Navigate to the `SD Card > subghz` directory.
-4- Add the desired files to the `subghz` folder.
-5- Access the saved files in Flipper to utilize them.
+1. Download the desired files.
+2. Open the qFlipper app.
+3. Navigate to the `SD Card > subghz` directory.
+4. Add the desired files to the `subghz` folder.
+5. Access the saved files in Flipper to utilize them.
+
+
 
 ## Credits
 The analysis, extraction and acquisition of the .sub fragments allowing these actions (colour, effects...) were made possible thanks to the use of the 30-minute .sub file recorded by [MakeTotalSense](https://github.com/MakeTotalSense) during a concert:
