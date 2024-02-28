@@ -31,6 +31,5 @@ The analysis, extraction and acquisition of the .sub fragments allowing these ac
 
 - [Concert_bracelet(unknown action).zip](https://github.com/MakeTotalSense/Flipper-Concert-bracelets)
 
-P.D: He utilizado la pulsera de los Esland.
 ## Disclaimer of Responsibility
 I do not accept responsibility for any negative consequences arising from the use or misuse of these files. Users are advised to adhere to ethical guidelines and respect the rights and experiences of others.
