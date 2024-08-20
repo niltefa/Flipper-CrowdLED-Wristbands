@@ -5,7 +5,7 @@ This repository contains files for controlling CrewdLED concert bracelets using 
 > **Kindly abstain from employing this code to disturb events or intrude upon individuals engagements. Show regard for event coordinators, entertainers, and attendees. The primary aim here is educational, tailored for experimentation under controlled circumstances.**
 
 ## Preparation
-CrewdLED bracelets are divided into three groups, each independently controllable. In this repository, files are tailored for group 3 bracelets. While some files might work with other groups, thorough testing has not been conducted. To determine your group, check the large number on the back of your bracelet:
+CrewdLED concert bracelets are divided into three groups, each independently controllable. In this repository, files are tailored for group 3 bracelets. While some files might work with other groups, thorough testing has not been conducted. To determine your group, check the large number on the back of your bracelet:
 
 <img src="https://github.com/niltefa/Flipper-CrowdLED-Bracelets/assets/91869645/0dc8a027-d999-4b75-9820-3c1dfcd60987" width="200" height="400" />
 
